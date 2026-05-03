@@ -1,6 +1,5 @@
 # Projeto_Modelacao-e-Animacao-3D
-## Estado:
-- Ainda em produção
+#### Estado: Ainda em produção
 
 ## O que foi feito?
 O objetivo deste projeto foi aprofundar e avaliar os principais conceitos e ferramentas de modelagem, bem como as técnicas de criação e manipulação de texturas/UVs e materiais em um ambiente 3D.

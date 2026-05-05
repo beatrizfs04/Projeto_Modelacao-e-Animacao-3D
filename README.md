@@ -7,7 +7,7 @@ O objetivo deste projeto foi aprofundar e avaliar os principais conceitos e ferr
 - Desenvolvimento de 4 objetos.
 - 1 objeto utiliza a técnica de conversão de highpoly para lowpoly.
 - Todos os objetos possuem imagens de referência.
-- Todos os objetos possuem UVs e texturas.
+- Todos os objetos possuem coordenadas UV e as respetivas texturas (importa referir que as texturas utilizadas neste projeto não são de autoria própria, tendo sido obtidas a partir de recursos disponíveis na internet).
 - Os materiais utilizam múltiplas texturas (Albedo, Roughness, Normal and Metallic).
 - O arquivo contém todos os 4 objetos com configurações de materiais/iluminação.
 
